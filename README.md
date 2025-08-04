@@ -6,7 +6,7 @@ Unless explicitly stated otherwise within a specific folder, **all folders, subf
 ---
 
 ### 📢 Licensing & Terms
-All source code, documentation, algorithms, workflows, and design patterns (collectively, the “Software”) in this repository are the sole and exclusive intellectual property of **[Your Full Name or Entity]**.
+All source code, documentation, algorithms, workflows, and design patterns (collectively, the “Software”) in this repository are the sole and exclusive intellectual property of **Rohit Chaurasia**.
 By accessing or using any part of this repository, you agree to the terms set forth in the [LICENSE](./LICENSE.txt).
 
 ---
