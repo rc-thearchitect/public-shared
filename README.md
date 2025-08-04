@@ -33,4 +33,4 @@ This Agreement shall be governed by and construed in accordance with the laws of
 In addition, and without prejudice to the foregoing, the Licensor retains the absolute and unconditional right to initiate legal proceedings in the competent courts of Mumbai, India, for the enforcement of its rights under this Agreement. The Licensee irrevocably submits to the jurisdiction of such courts and agrees not to contest the choice of forum or applicable law in either jurisdiction.
 
 
-© 2025 **Rohit Chaurasia**. All rights reserved. Licensed under(./LICENSE.txt).
+© 2025 **Rohit Chaurasia**. All rights reserved. Licensed under(LICENSE.txt).
